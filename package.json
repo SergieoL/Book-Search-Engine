@@ -10,9 +10,12 @@
     "build": "cd client && npm run build"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ghibli",
   "license": "ISC",
   "devDependencies": {
+    "concurrently": "^5.1.0"
+  },
+  "dependencies": {
     "concurrently": "^5.1.0"
   }
 }
